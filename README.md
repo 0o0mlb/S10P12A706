@@ -17,7 +17,7 @@
 <summary>서비스 화면</summary>
 <div>
 
-![메인페이지](/assets/메인화면 로그인.gif)
+![메인페이지](/assets/메인화면_로그인.gif)
 </div>
 </details>
 <br>
