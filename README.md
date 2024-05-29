@@ -234,7 +234,7 @@
 
 ### 아키텍처
 
-![image](/assets/architecture.png)
+![image](/assets/architecture_v2.png)
 
 ### [포팅 매뉴얼](https://spiny-nylon-a25.notion.site/607d2233ca3d498caaad1617cc111ed3?pvs=4)
 
